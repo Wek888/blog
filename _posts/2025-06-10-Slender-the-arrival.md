@@ -1,5 +1,5 @@
 
-<img src="https://ru.wikipedia.org/wiki/File%3ASlender-_The_Arrival_logo.jpeg">
+![заголовок](https://ru.wikipedia.org/wiki/File%3ASlender-_The_Arrival_logo.jpeg")
 
 Так значит. Поиграл я в ваш "Бледно-лысый дрышь: The Пришествие"  
 
