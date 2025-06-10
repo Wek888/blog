@@ -1,5 +1,5 @@
 
-![заголовок](https://ru.wikipedia.org/wiki/File%3ASlender-_The_Arrival_logo.jpeg")
+![Обложка игры](https://upload.wikimedia.org/wikipedia/ru/d/dc/Slender-_The_Arrival_logo.jpeg)
 
 Так значит. Поиграл я в ваш "Бледно-лысый дрышь: The Пришествие"  
 
